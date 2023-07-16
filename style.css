@@ -1,0 +1,245 @@
+* {
+    background-color: crimson;
+}
+
+#main {
+    /* border: 2px solid; */
+    width: 600px;
+    height: 300px;
+    margin-left: 650px;
+    margin-top: 300px;
+    display: flex;
+    flex-direction: column;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: crimson;
+}
+
+#sub1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background-color: white;
+}
+
+#sub2 {
+    font-family: serif;
+    width: 200px;
+    font-size: 50px;
+    margin-left: 210px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+#sub2:hover {
+    background-color: lightsalmon;
+}
+
+#game {
+    border: 2px solid;
+    height: 700px;
+    width: 800px;
+    margin-left: 550px;
+    margin-top: 80px;
+    background-color: salmon;
+}
+
+#game1 {
+    border: 2px solid;
+    height: 645px;
+    width: 750px;
+    margin-left: 23px;
+    margin-top: 25px;
+    background-color: lightcoral;
+}
+
+#con1 {
+    font-size: 30px;
+    /* border: 2px solid; */
+    width: 500px;
+    height: 100px;
+    margin-left: 120px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border-radius: 20px; */
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    background-color: crimson;
+    font-size: 35px;
+    color: white;
+
+}
+
+#con2 {
+    /* border: 2px solid; */
+    width: 50px;
+    height: 80px;
+    margin-top: 30px;
+    margin-left: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    background-color: crimson;
+    color: white;
+    font-size: 35px;
+}
+
+#con3 {
+    /* border: 2px solid; */
+    width: 150px;
+    height: 80px;
+    margin-top: 30px;
+    margin-left: 275px;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    background-color: crimson;
+    color: white;
+    font-size: 35px;
+}
+
+#con2:hover,
+#con3:hover {
+    background-color: maroon;
+}
+
+#con4 {
+    font-size: 30px;
+    /* border: 2px solid; */
+    width: 300px;
+    height: 50px;
+    margin-left: 120px;
+    margin-top: 33px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    background-color: crimson;
+    color: white;
+}
+
+#con41 {
+    /* border: 2px solid; */
+    background-color: crimson;
+    color: white;
+    font-size: 33px;
+}
+
+#con42 {
+    /* border: 2px solid; */
+    width: 30px;
+    height: 32px;
+    margin-left: 2px;
+    background-color: crimson;
+    color: white;
+}
+
+#con5 {
+    font-size: 35px;
+    /* border: 2px solid; */
+    width: 500px;
+    height: 100px;
+    margin-left: 120px;
+    margin-top: 33px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 25px;
+    background-color: crimson;
+    color: white;
+}
+
+#f1 {
+    /* border: 2px solid; */
+    height: 300px;
+    width: 500px;
+    margin: auto;
+    margin-top: 260px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    background-color: lightcoral;
+}
+
+#dis1 {
+    /* border: 2px solid; */
+    height: 100px;
+    width: 400px;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+    background-color: crimson;
+    color: white;
+}
+
+#f2 {
+    /* border: 2px solid; */
+    height: 300px;
+    width: 500px;
+    margin: auto;
+    margin-top: 260px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    background-color: lightcoral;
+}
+
+#dis2 {
+    /* border: 2px solid; */
+    height: 100px;
+    width: 400px;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+    background-color: crimson;
+    color: white;
+}
+
+#re1 {
+    background-color: lightcoral;
+    width: 150px;
+    height: 100px;
+    margin-left: 880px;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+    font-size: 35px;
+    color: white;
+}
+
+#re2 {
+    border-radius: 100px;
+    width: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#re2:hover {
+    background-color: black;
+}
